@@ -1,0 +1,57 @@
+Govinda P B
+Frontend Developer | Angular & Ionic Developer
+
+Profile
+Nearly 2 years of professional experience building enterprise web and mobile applications with a strong focus on Angular, Ionic, UI architecture, responsive design, and product-minded frontend development.
+
+Core Strengths
+- Angular application development
+- Ionic mobile app interfaces
+- TypeScript and JavaScript
+- HTML5, CSS3, SCSS
+- Angular Material, Bootstrap, Tailwind CSS
+- Responsive UI engineering
+- REST API integration
+- Firebase integration
+- Git, GitHub, VS Code, Cursor
+
+Experience
+Saiha Software Technologies Pvt Ltd
+Junior Full Stack Developer
+Kochi, Kerala
+June 2024 - Present
+
+Highlights
+- Built and maintained enterprise frontend modules using Angular and TypeScript.
+- Contributed to government systems, CRM platforms, and mobile applications.
+- Worked on dashboards, approval workflows, notifications, integrations, and responsive UI systems.
+- Helped create polished user experiences for data-rich business applications.
+
+Selected Projects
+1. FUP – Portfolio Management System (Gabon)
+   - Government financial and company registration platform
+   - Company registration, employee management, financial reporting, admin approvals, Firebase notifications, Chart.js dashboards
+   - Tech: Angular, TypeScript, Angular Material, PrimeNG, Firebase, Chart.js
+
+2. RedTeam CRM
+   - Enterprise CRM platform with lead management, call tracking, WhatsApp integration, file sharing, voice messages, and Ionic mobile support
+   - Tech: Angular, Ionic, TypeScript, REST APIs
+
+3. PUPS
+   - Government social security platform for Gabon
+   - CNSS integration, CNAMGS integration, employee lifecycle management, report generation, admin dashboards
+   - Tech: Angular, Firebase, Chart.js
+
+4. Lakshmi Hyundai
+   - Vehicle showcase and test-drive platform
+   - Location-based inventory, test drive booking, admin portal, Google Sheets integration, dynamic content management
+   - Tech: Angular, TypeScript, REST APIs
+
+Creative Areas
+- UI Design
+- Figma Work
+- Photo Editing
+- Video Editing
+
+Portfolio Note
+This resume snapshot accompanies a premium portfolio focused on frontend architecture, enterprise UX, and Angular + Ionic product development.
